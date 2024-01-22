@@ -65,4 +65,4 @@ Inspired by the work of M Heidenreinch.
 
 ## License
 
-This project operates under the MIT License - see the [LICENSE](LICENSE/license.md) file for details. Dive into the LED Patterns Display System, and let your creativity shine!
+This project operates under the MIT License - see the [LICENSE](LICENSE/LICENSE.md) file for details. Dive into the LED Patterns Display System, and let your creativity shine!
